@@ -1,0 +1,22 @@
+.tab {
+  background-color: transparent;
+  border: 0 solid;
+  font-size: 19px;
+  color: #7b8794;
+  cursor: pointer;
+  width: 100%;
+  border-bottom: 2px solid #7b879454;
+  padding-bottom: 6px;
+}
+
+.active-tab {
+  margin-bottom: 3px;
+  color: #2563eb;
+  font-weight: bold;
+  border-bottom: 2px solid #2563eb;
+}
+
+.tab-item {
+  width: 100%;
+  margin: 20px 0px;
+}
